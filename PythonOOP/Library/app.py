@@ -1,3 +1,4 @@
 class Library:
-    sdffd
+
+    def __init__(self):
 
